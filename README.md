@@ -15,3 +15,7 @@ Sarah
 
 Updated README with lab instructions
 Edit added by Nicholas Cheng
+
+
+## Collaboration Acknowledgement
+This project was reviewed and edited by Nicholas Cheng on Github
