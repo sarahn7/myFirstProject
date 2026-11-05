@@ -2,7 +2,7 @@
 This program reads item names and prices and quantity of those items, calculates the total and displays the total.
 ## How to Run
 1. Open the program in your IDE
-2. Enter the items name and price and quantity
+2. Enter the item's name and price and quantity
 3. View the calcuated total output
 ## Example Output
 Item: Chips
@@ -14,3 +14,4 @@ Sarah
 
 
 Updated README with lab instructions
+Edit added by Nicholas Cheng
