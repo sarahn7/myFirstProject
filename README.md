@@ -12,11 +12,12 @@ Total: $11.5
 ## Author
 Sarah
 ## Code Explanation
-'''java
+
+```java
    System.out.print("Enter item name: ");
         String item = sc.nextLine();
         // This code will print out the item name
-'''
+```
 
 
 Updated README with lab instructions
